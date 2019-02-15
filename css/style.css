@@ -1,0 +1,35 @@
+body{
+    font-family: 'Roboto', serif !important;
+    color:white;
+    font-size:0.9rem;
+}
+.wordwrapbrk{
+    word-wrap: break-word;
+}
+.navbarborderbtm{
+    border-bottom: 1px solid blue;
+}
+
+.home-inner{
+    padding: 150px;
+}
+
+#home-section .fas{
+    color:#008ed6;
+    border-radius:5px;
+    background:white;
+}
+.tablink
+{
+    color:white;
+}
+.divheight
+{
+    height:250px;
+}
+.inputgrptext
+{
+    height:30px;
+    font-size:0.8rem;
+    padding:2px
+}
